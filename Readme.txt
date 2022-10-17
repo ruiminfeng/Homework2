@@ -15,6 +15,6 @@ Homework 2
    Scientific computing: numpy, pandas
    Plotting: matplotlib
 
-3. The code was edited and run in Jupyter notebook and the files can be found by the following link:
+4. The code was edited and run in Jupyter notebook and the files can be found by the following link:
    https://github.com/ruiminfeng/Homework2
 
